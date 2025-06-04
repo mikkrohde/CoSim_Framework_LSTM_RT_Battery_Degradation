@@ -1,0 +1,7 @@
+{
+    "device": "cuda",
+    "batch_size": 64,
+    "sequence_length": 64,
+    "optimizer": "AdamW",
+    "created_at": "2025-05-24T02:40:16.825435"
+}
